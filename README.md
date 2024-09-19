@@ -2,6 +2,4 @@
 ![banner image](https://i.ytimg.com/vi/_AeudsbKYG8/maxresdefault.jpg)
 
 ## Libraries used: 
-- Selenium
 - BeautifulSoup
-- Webdrivers
